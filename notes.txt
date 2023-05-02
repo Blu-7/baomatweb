@@ -1,0 +1,6 @@
+﻿Pages.php:
+    1. Hiện tại gồm 3 trang: Contact, About và index (trang mặc dịnh có 2 option):
+    2. Về trang index:
+        - Trường hợp 1 là khi chưa đăng nhập và chỉ hiện ra cái tutorial
+        - Trường hợp 2 là khi đăng nhâập thì hiện ra các post
+    3. Truyền dữ liệu qua biến data
